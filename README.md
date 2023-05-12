@@ -28,7 +28,7 @@ To seed the data run the following command:
 node seeds/index.js
 ```
  
- After that run the following command:
+ After that run the following command to run the app:
 ```
 node server.js
 ```
